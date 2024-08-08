@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://github.com/qbentil/Static-Portfolio",
+  "homepage": "https://github.com/Luenpa01/Luenpa01.github.io",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://qbentil.github.io/Static-Portfolio'",
+    "build-gh": "parcel build --public-url 'https://Luenpa01.github.io/Luenpa01.github.io'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },

@@ -29,10 +29,10 @@ const siteProps = {
   email: "enrique_parada@outlook.com",
   gitHub: "qbentil",
   instagram: "qbentil",
-  linkedIn: "bentil",
+  linkedIn: "luis-enrique-parada-guzman-7a516b152",
   medium: "",
   twitter: "themanbentil",
-  youTube: "Enrique Ferris",
+  youTube: "EnriqueFerris",
 };
 
 const primaryColor = "#001FA0";
