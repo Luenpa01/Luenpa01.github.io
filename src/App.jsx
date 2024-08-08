@@ -27,11 +27,11 @@ const siteProps = {
   name: "Luis Parada",
   title: "Software Engineer & Technical Writer",
   email: "enrique_parada@outlook.com",
-  gitHub: "qbentil",
-  instagram: "qbentil",
+  gitHub: "Luenpa01",
+  instagram: "paradaluis|",
   linkedIn: "luis-enrique-parada-guzman-7a516b152",
   medium: "",
-  twitter: "themanbentil",
+  twitter: "",
   youTube: "EnriqueFerris",
 };
 

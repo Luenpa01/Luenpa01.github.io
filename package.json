@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "http://http://enriqueferris.me/",
+  "homepage": "https://enriqueferris.me/",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'http://http://enriqueferris.me/'",
+    "build-gh": "parcel build --public-url 'https://enriqueferris.me/'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
