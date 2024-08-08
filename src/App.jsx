@@ -24,15 +24,15 @@ import React from "react";
  * If you don't have one of the social sites listed, leave it as an empty string.
  */
 const siteProps = {
-  name: "Shadrack Bentil",
-  title: "Full Stack Developer & Technical Writer",
-  email: "bentilshadrack72@gmail.com",
+  name: "Luis Parada",
+  title: "Software Engineer & Technical Writer",
+  email: "enrique_parada@outlook.com",
   gitHub: "qbentil",
   instagram: "qbentil",
   linkedIn: "bentil",
   medium: "",
   twitter: "themanbentil",
-  youTube: "Code with Bentil",
+  youTube: "Enrique Ferris",
 };
 
 const primaryColor = "#001FA0";
